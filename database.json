@@ -188,5 +188,205 @@
     "added_on": "2024-11-07",
     "added_by": "oyuncunettv",
     "trusted": true
+  },
+  {
+    "name": "TikTok",
+    "url": "https://www.vimeo.com",
+    "category": "https://www.tiktok.com/en/",
+    "description": "A video hosting, sharing, and services platform focused on high-definition video.",
+    "title": "TikTok - Make Your Day",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://www.whatsapp.com",
+    "category": "Messaging",
+    "description": "An instant messaging application for smartphones that allows users to send text messages, voice messages, and make voice or video calls.",
+    "title": "WhatsApp - Messaging and Video Calls",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Twitch",
+    "url": "https://www.twitch.tv",
+    "category": "Streaming",
+    "description": "A live streaming platform primarily for gamers to broadcast their gameplay and interact with their audience in real-time.",
+    "title": "Twitch - Live Streaming for Gamers",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Zoom",
+    "url": "https://zoom.us",
+    "category": "Video Conferencing",
+    "description": "A video conferencing tool used for meetings, webinars, and virtual collaboration with features for screen sharing, messaging, and more.",
+    "title": "Zoom - Video Communications",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Snapchat",
+    "url": "https://www.snapchat.com",
+    "category": "Social Media",
+    "description": "A multimedia messaging app known for its disappearing messages, photos, and videos.",
+    "title": "Snapchat - Send and Receive Snaps",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com",
+    "category": "Technology",
+    "description": "A leading global technology company, known for developing Windows, Office, and cloud-based services.",
+    "title": "Microsoft - Empowering Us All",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "eBay",
+    "url": "https://www.ebay.com",
+    "category": "E-commerce",
+    "description": "An online marketplace where users can buy and sell new and used goods through auctions or direct sales.",
+    "title": "eBay - Buy and Sell on eBay",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Tumblr",
+    "url": "https://www.tumblr.com",
+    "category": "Blogging",
+    "description": "A microblogging platform that allows users to post multimedia and short-form content in a social network format.",
+    "title": "Tumblr - A place to express yourself",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Discord",
+    "url": "https://www.discord.com",
+    "category": "Communication",
+    "description": "A voice, video, and text communication platform for creating communities, primarily popular among gamers.",
+    "title": "Discord - Your Place to Talk and Hang Out",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Slack",
+    "url": "https://www.slack.com",
+    "category": "Productivity",
+    "description": "A collaboration software for teams, providing communication tools like channels, direct messaging, and file sharing.",
+    "title": "Slack - Where Work Happens",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Airbnb",
+    "url": "https://www.airbnb.com",
+    "category": "Travel",
+    "description": "A platform for renting short-term lodging, offering unique and personalized stays in local homes, apartments, and more.",
+    "title": "Airbnb - Find Vacation Rentals",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Hulu",
+    "url": "https://www.hulu.com",
+    "category": "Streaming",
+    "description": "A streaming service offering a wide variety of TV shows, movies, and original content, especially popular in the US.",
+    "title": "Hulu - Stream TV Shows and Movies",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Medium",
+    "url": "https://www.medium.com",
+    "category": "Blogging",
+    "description": "A platform for writers and thinkers to publish their stories, ideas, and reflections in long-form articles.",
+    "title": "Medium - A Place to Read and Write",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "category": "Education",
+    "description": "An online learning platform offering courses from top universities and organizations around the world.",
+    "title": "Coursera - Learn Anytime, Anywhere",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Yelp",
+    "url": "https://www.yelp.com",
+    "category": "Reviews",
+    "description": "A website where users can find and review local businesses, restaurants, and services.",
+    "title": "Yelp - Find and Review Local Businesses",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Wish",
+    "url": "https://www.wish.com",
+    "category": "E-commerce",
+    "description": "An online shopping platform known for selling cheap, often overseas, products in categories like fashion, electronics, and home goods.",
+    "title": "Wish - Shop Online for Deals",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Startpage",
+    "url": "https://www.startpage.com/",
+    "category": "Search Engine",
+    "description": "Secure Search Engine Delivering Google Results",
+    "title": "Startpage - Private Search Engine. No Tracking. No Search History.",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "DeepL",
+    "url": "https://www.deepl.com/en/",
+    "category": "Translator",
+    "description": "The Most Accurate Translation Service",
+    "title": "DeepL Translate: The world's most accurate translator",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Yandex",
+    "url": "https://yandex.com.tr/",
+    "category": "Search Engine",
+    "description": "Private Search Engine",
+    "title": "Yandex - fast Internet search",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com/",
+    "category": "Artificial Intelligence (AI)",
+    "description": "Modern Artificial Intelligence",
+    "title": "ChatGPT",
+    "added_on": "2024-11-07",
+    "added_by": "oyuncunettv",
+    "trusted": true
   }
 ]
