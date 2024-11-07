@@ -15,7 +15,7 @@ Herkes İçin Kamu Malı Arama Motoru Veri Tabanı. Ekleme Ve Düzenleme Yapabil
 ### Kurallar:
 - Spam ve reklam amaçlı siteler eklenmemelidir.
 - İçerik kalitesi yüksek ve güvenilir siteler tercih edilmelidir.
-- Geliştirdiğiniz Arama Motorunun (İsterseniz footer Bölümünde) Bu Veri Tabanını Kullandığınızı GitHub Adresi İle Belirtiniz
+- Geliştirdiğiniz Arama Motorunda (İsterseniz footer Bölümünde) Bu Veri Tabanını Kullandığınızı GitHub Adresi İle Belirtiniz
 
 ### Nasıl Kullanırsınız?:
 - Linki Kopyalayın: https://oyuncunettv.github.io/public-domain-search-engine-db/
