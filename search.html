@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kamu Malı Arama Motoru Veri Tabanı - Public Domain Search Engine Database</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    #search-results {
+      list-style-type: none;
+      padding: 0;
+    }
+    #search-results li {
+      margin: 10px 0;
+    }
+    #search-results a {
+      text-decoration: none;
+      color: #1a73e8;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Kamu Malı Arama Motoru Veri Tabanı</h1>
+  <h2>Public Domain Search Engine Database</h2>
+  <input type="text" id="search-bar" placeholder="Arama yap (Search)..." />
+  <ul id="search-results"></ul>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+  const searchBar = document.getElementById('search-bar');
+  const searchResults = document.getElementById('search-results');
+  
+  let db = []; // Veri tabanını burada saklayacağız
+
+  // Veriyi Fetch ile çekme
+  fetch('https://oyuncunettv.github.io/public-domain-search-engine-db/database.json')
+    .then(response => response.json())
+    .then(data => {
+      db = data;
+    })
+    .catch(error => console.error('Veri çekilirken hata oluştu:', error));
+
+  // Arama fonksiyonu
+  function search(query) {
+    searchResults.innerHTML = ''; // Önceki sonuçları temizle
+    
+    if (query === '') return; // Eğer arama boşsa hiç işlem yapma
+    
+    const results = db.filter(item => {
+      return (
+        item.name.toLowerCase().includes(query.toLowerCase()) || 
+        item.category.toLowerCase().includes(query.toLowerCase()) || 
+        item.description.toLowerCase().includes(query.toLowerCase())
+      );
+    });
+    
+    // Sonuçları gösterme
+    results.forEach(result => {
+      const li = document.createElement('li');
+      li.innerHTML = `
+        <strong><a href="${result.url}" target="_blank">${result.name}</a></strong> - ${result.category}
+        <p>${result.description}</p>
+      `;
+      searchResults.appendChild(li);
+    });
+  }
+
+  // Arama kutusundaki her değişiklikte arama yap
+  searchBar.addEventListener('input', (event) => {
+    const query = event.target.value;
+    search(query);
+  });
+});
+  </script>
+</body>
+</html>
