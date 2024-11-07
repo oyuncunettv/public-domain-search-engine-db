@@ -18,5 +18,5 @@ Herkes İçin Kamu Malı Arama Motoru Veri Tabanı. Ekleme Ve Düzenleme Yapabil
 - Geliştirdiğiniz Arama Motorunda (İsterseniz footer Bölümünde) Bu Veri Tabanını Kullandığınızı GitHub Adresi İle Belirtiniz
 
 ### Nasıl Kullanırsınız?:
-- Linki Kopyalayın: https://oyuncunettv.github.io/public-domain-search-engine-db/
+- Linki Kopyalayın: https://oyuncunettv.github.io/public-domain-search-engine-db/database.json
 - JavaScript "fetch" Fonksiyonu İle Web Sitenize Ekleyin
