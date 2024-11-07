@@ -5,7 +5,7 @@ Herkes İçin Kamu Malı Arama Motoru Veri Tabanı. Ekleme Ve Düzenleme Yapabil
 - Arama Motoru Geliştirmeyi Daha Kolay Hale Getirmek
 
 ## Trusted Websites Project
-Bu proje, kullanıcıların güvendiği web sitelerinin paylaşıldığı bir veri tabanıdır. Kullanıcılar, doğru, güvenilir ve kaliteli siteleri JSON formatında ekleyebilirler.
+- Bu proje, kullanıcıların güvendiği web sitelerinin paylaşıldığı bir veri tabanıdır. Kullanıcılar, doğru, güvenilir ve kaliteli siteleri JSON formatında ekleyebilirler.
 
 ### Katkıda Bulunmak İçin:
 - `database.json` dosyasını düzenleyin.
@@ -15,3 +15,4 @@ Bu proje, kullanıcıların güvendiği web sitelerinin paylaşıldığı bir ve
 ### Kurallar:
 - Spam ve reklam amaçlı siteler eklenmemelidir.
 - İçerik kalitesi yüksek ve güvenilir siteler tercih edilmelidir.
+- Geliştirdiğiniz Arama Motorunun (İsterseniz footer Bölümünde) Bu Veri Tabanını Kullandığınızı GitHub Adresi İle Belirtiniz
