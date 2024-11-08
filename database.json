@@ -398,5 +398,25 @@
     "added_on": "2024-11-07",
     "added_by": "oyuncunettv",
     "trusted": true
+  },
+  {
+    "name": "Reddit OpenSource",
+    "url": "https://www.reddit.com/r/opensource/",
+    "category": "Subreddit",
+    "description": "",
+    "title": "Open Source on Reddit",
+    "added_on": "2024-11-08",
+    "added_by": "oyuncunettv",
+    "trusted": true
+  },
+  {
+    "name": "Hepsiburada",
+    "url": "https://www.hepsiburada.com/",
+    "category": "E-Commerce",
+    "description": "One of Turkey's Most Popular E-Commerce Sites",
+    "title": "Türkiye'nin En Çok Tavsiye Edilen E-ticaret Markası Hepsiburada",
+    "added_on": "2024-11-08",
+    "added_by": "oyuncunettv",
+    "trusted": true
   }
 ]
