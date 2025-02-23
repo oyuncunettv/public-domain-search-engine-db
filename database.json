@@ -430,7 +430,7 @@
     "trusted": true
   },
   {
-    "name": "Feddit UK"
+    "name": "Feddit UK",
     "url": "https://www.feddit.uk/feddit.uk",
     "category": "Social News",
     "description": "Feddit UK is a UK-focused, ad-free Lemmy platform.",
